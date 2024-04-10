@@ -1,37 +1,42 @@
-body{
+body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    font-size: 5vw;
+    /* font-size: 5vw; */
+    font-size: 15px;
     padding: 3rem;
 }
 
-p{
+p {
     padding: 1rem 2rem;
 }
+
 .special {
     color: darkgreen;
 }
-.dark{
+
+.dark {
     background-color: black;
 }
-a{
-    color:gold;
+
+a {
+    color: gold;
     text-decoration: none;
     display: inline-block;
     background-color: darkgreen;
     padding: 0.5rem 1rem;
+    /* padding: 5px 1px; */
     margin: 0.25rem;
     border-radius: 0.25rem;
 }
 
-#home{
+#home {
     background-color: antiquewhite;
 }
 
-#about{
+#about {
     background-color: aqua;
 }
 
-#logo{
+#logo {
     width: 12rem;
     border-radius: 1rem;
 }
