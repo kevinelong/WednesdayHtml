@@ -40,3 +40,9 @@ a {
     width: 12rem;
     border-radius: 1rem;
 }
+ul {
+    list-style-type: none;
+}
+nav ul li{
+    display: inline-block;
+}
